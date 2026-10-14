@@ -12,8 +12,6 @@ Página temática sobre Machu Picchu, construida con HTML y CSS. La fotografía 
 - `git pull`: trae e integra en la copia local los cambios publicados en el remoto.
 - `git branch`: permite trabajar en una línea de cambios separada; luego se integra con un merge a `main`.
 
-## Evidencias por capturar
-
 ## Flujo realizado
 
 - Repositorio local inicializado en `main`; primer commit: `2627fa3`.

@@ -36,6 +36,8 @@ Para actualizar la carpeta original desde GitHub, ejecuta `git pull origin main`
 - [x] Proyecto inicial: `evidencias/proyecto-inicial.png`.
 - [x] Segunda copia con dos cambios visibles: `evidencias/copia-con-cambios.png`.
 - [x] Mejora visible en la rama: `evidencias/mejora-en-rama.png`.
-- [x] Merge a `main` y `git pull` en la carpeta original: ver commits e historial de Git.
+- [x] Ramas publicadas y `main` predeterminada: `evidencias/ramas-github.png`.
+- [x] Integración visible en el historial de `main`: `evidencias/integracion-main-github.png`.
+- [x] Merge a `main` y `git pull` en la carpeta original: ver el historial y las capturas del resultado final.
 - [x] Resultado final en escritorio y móvil: `evidencias/final-escritorio.png` y `evidencias/final-movil.png`.
 - [x] Repositorio público y ramas publicados en GitHub: https://github.com/nikitaleon1421-ux/machu-picchu-ruta-andina

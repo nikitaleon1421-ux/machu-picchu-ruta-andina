@@ -32,10 +32,11 @@ git push -u origin mejora-cuidado-del-santuario
 
 En la carpeta original, configura también esa URL y ejecuta `git pull origin main`.
 
-## Evidencias por capturar
+## Evidencias
 
-- [ ] Página final abierta en el navegador.
-- [ ] Dos cambios visibles en la segunda copia.
-- [ ] Rama y mejora visible.
-- [ ] Integración a `main` y actualización de la carpeta original.
-- [ ] Repositorio y cambios publicados en GitHub.
+- [x] Proyecto inicial: `evidencias/proyecto-inicial.png`.
+- [x] Segunda copia con dos cambios visibles: `evidencias/copia-con-cambios.png`.
+- [x] Mejora visible en la rama: `evidencias/mejora-en-rama.png`.
+- [x] Merge a `main` y `git pull` en la carpeta original: ver commits e historial de Git.
+- [x] Resultado final en escritorio y móvil: `evidencias/final-escritorio.png` y `evidencias/final-movil.png`.
+- [ ] Repositorio y cambios publicados en GitHub; falta configurar una URL de GitHub.

@@ -16,19 +16,20 @@ Página temática sobre Machu Picchu, construida con HTML y CSS. La fotografía 
 
 - Repositorio local inicializado en `main`; primer commit: `2627fa3`.
 - Proyecto clonado en otra carpeta; se añadieron los lugares destacados y un enlace de navegación.
-- Los cambios de la copia se guardaron y se enviaron al remoto local: `e6f8371`.
+- Los cambios de la copia se guardaron en `e6f8371` y se publicaron en GitHub.
 - Rama `mejora-cuidado-del-santuario` creada; se añadió una recomendación visible: `295bc69`.
-- La rama se integró en `main` y la carpeta original se actualizó con `git pull`.
+- La rama se integró en `main`, se publicaron ambas ramas y la carpeta original se actualizó con `git pull`.
 
-El remoto `origin` usado durante la práctica es una carpeta local llamada `machu-picchu-remoto.git`; todavía no es un repositorio de GitHub. Para publicar, crea un repositorio vacío en GitHub y reemplaza `URL_DEL_REPOSITORIO` en las dos carpetas:
+Repositorio público: https://github.com/nikitaleon1421-ux/machu-picchu-ruta-andina
+
+El flujo de clonación y actualización se practicó primero con un remoto bare local. El remoto `origin` de las dos carpetas ahora apunta a GitHub:
 
 ```powershell
-git remote set-url origin URL_DEL_REPOSITORIO
 git push -u origin main
 git push -u origin mejora-cuidado-del-santuario
 ```
 
-En la carpeta original, configura también esa URL y ejecuta `git pull origin main`.
+Para actualizar la carpeta original desde GitHub, ejecuta `git pull origin main`.
 
 ## Evidencias
 
@@ -37,4 +38,4 @@ En la carpeta original, configura también esa URL y ejecuta `git pull origin ma
 - [x] Mejora visible en la rama: `evidencias/mejora-en-rama.png`.
 - [x] Merge a `main` y `git pull` en la carpeta original: ver commits e historial de Git.
 - [x] Resultado final en escritorio y móvil: `evidencias/final-escritorio.png` y `evidencias/final-movil.png`.
-- [ ] Repositorio y cambios publicados en GitHub; falta configurar una URL de GitHub.
+- [x] Repositorio público y ramas publicados en GitHub: https://github.com/nikitaleon1421-ux/machu-picchu-ruta-andina
